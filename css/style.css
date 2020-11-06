@@ -61,6 +61,11 @@ article
   margin-left: 1rem;
 }
 
+article a
+{
+  color: black;
+}
+
 aside
 {
   grid-area: as;
